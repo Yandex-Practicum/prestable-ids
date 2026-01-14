@@ -1,15 +1,1 @@
-{
-  "f": "eb6207c1-ebb8-4872-be41-5b0e56e8f6da",
-  "p": "aa104d53-3f6a-4f24-a9ad-8f184a40ae42",
-  "tr": "749d48e6-1fdd-465e-bda5-12b84c04a553",
-  "items": [
-    {
-      "c": "1fc2fcf0-0cb2-4b98-a859-3a5edd4aae4b",
-      "t": "ab9bb279-0f76-443d-bda7-02e80e0574d1",
-      "ls": [
-        "55d2e9ba-aa7e-47e9-8dbe-36226ce59bf5",
-        "c2f0385b-7919-4cdf-a599-b38a9d3568e0"
-      ]
-    }
-  ]
-}
+{"f":"eb6207c1-ebb8-4872-be41-5b0e56e8f6da","p":"aa104d53-3f6a-4f24-a9ad-8f184a40ae42","tr":"749d48e6-1fdd-465e-bda5-12b84c04a553","items":[{"c":"1fc2fcf0-0cb2-4b98-a859-3a5edd4aae4b","t":"ab9bb279-0f76-443d-bda7-02e80e0574d1","ls":["55d2e9ba-aa7e-47e9-8dbe-36226ce59bf5","c2f0385b-7919-4cdf-a599-b38a9d3568e0"]}]}
